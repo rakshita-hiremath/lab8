@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 base project files
+=======
+Base project files
+>>>>>>> ca436ff13c68e157a2e8d55ee8b2c95e75adf38b
